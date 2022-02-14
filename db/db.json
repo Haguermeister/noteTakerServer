@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Get groceries",
+    "text": "milk\nmeat \ntomato\ncelery\n",
+    "id": "4008f82b-e609-45b1-8022-fe947def95ae"
+  },
+  {
+    "title": "Dog Store",
+    "text": "Purina Pro Plan\nDog Treats\nFave toy",
+    "id": "7e7d0406-fc70-41b7-ad0c-b8584bf431eb"
+  },
+  {
+    "title": "Clean House",
+    "text": "vacuum\nclean bathroom\n",
+    "id": "df11fbef-888d-409d-aab4-7778282a0978"
+  },
+  {
+    "title": "Test Delete Button",
+    "text": "Hit the delete button on this note to test.",
+    "id": "4beadef6-9e87-4ab4-acbc-274ccf7abd89"
+  }
+]
