@@ -2,12 +2,12 @@
 
 Note Taker Server Project Due : 13 FEB 2022
 
-## Github Repo Link : 
+## Github Repo Link : https://github.com/Haguermeister/noteTakerServer
 
-## Heroku Link : 
+## Heroku Link : https://note-taker10012001.herokuapp.com
 
 ## Screenshot Below :
-![alt text](./assets/images/ScreenShot.png)
+![alt text](./ScreenShot.png)
 ---
 
 ## Grading Criteria :
